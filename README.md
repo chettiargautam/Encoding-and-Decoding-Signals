@@ -1,4 +1,4 @@
-# Voice-Encoding
+# Voice Encoding
 - The objective of This project is to convert any Audio file into an
 encrypted Image file, so that any third party cannot have any access to
 it.
@@ -9,7 +9,7 @@ access of the data which was in the original Audio File.
 blackmail and also allows us to securely share our files.
  ![image](https://user-images.githubusercontent.com/75129076/171173216-73c93763-411c-4fe8-b60b-890302bfb6e5.png)
 ![image](https://user-images.githubusercontent.com/75129076/171173322-ec5ba49f-82e5-40d6-9069-8020ee8f56fb.png)
-## installation & Working :gear: &#8594; ##
+## Working :gear: &#8594; ##
 
 1. First you should have an audio signal and any image file (preferablly Plain Blue).
 2. Now Run the Encryption Script, it will ask for audio and image file loaction so make sure you give the right address for both.
